@@ -1,0 +1,10 @@
+C:\Users\Cupcap\source\repos\wwwwwwwwwwwww\wwwwwwwwwwwww\bin\Debug\wwwwwwwwwwwww.exe.config
+C:\Users\Cupcap\source\repos\wwwwwwwwwwwww\wwwwwwwwwwwww\bin\Debug\wwwwwwwwwwwww.exe
+C:\Users\Cupcap\source\repos\wwwwwwwwwwwww\wwwwwwwwwwwww\bin\Debug\wwwwwwwwwwwww.pdb
+C:\Users\Cupcap\source\repos\wwwwwwwwwwwww\wwwwwwwwwwwww\obj\Debug\wwwwwwwwwwwww.csproj.AssemblyReference.cache
+C:\Users\Cupcap\source\repos\wwwwwwwwwwwww\wwwwwwwwwwwww\obj\Debug\wwwwwwwwwwwww.frmMass.resources
+C:\Users\Cupcap\source\repos\wwwwwwwwwwwww\wwwwwwwwwwwww\obj\Debug\wwwwwwwwwwwww.Properties.Resources.resources
+C:\Users\Cupcap\source\repos\wwwwwwwwwwwww\wwwwwwwwwwwww\obj\Debug\wwwwwwwwwwwww.csproj.GenerateResource.cache
+C:\Users\Cupcap\source\repos\wwwwwwwwwwwww\wwwwwwwwwwwww\obj\Debug\wwwwwwwwwwwww.csproj.CoreCompileInputs.cache
+C:\Users\Cupcap\source\repos\wwwwwwwwwwwww\wwwwwwwwwwwww\obj\Debug\wwwwwwwwwwwww.exe
+C:\Users\Cupcap\source\repos\wwwwwwwwwwwww\wwwwwwwwwwwww\obj\Debug\wwwwwwwwwwwww.pdb
